@@ -1,0 +1,11 @@
+[
+  {
+    "id": "abstract-library-demo",
+    "name": "Abstract Library Demo",
+    "description": "A demonstration library for testing the Abstract Folder library system.",
+    "repositoryUrl": "https://github.com/erfan-p/abstract-library-demo",
+    "author": "Erfan",
+    "category": "Sample",
+    "tags": ["demo", "test"]
+  }
+]
