@@ -22,7 +22,10 @@
       "repository": "https://github.com/RahmaniErfan/Books",
       "lastVersion": "1.0.0",
       "isVerified": true,
-      "fundingUrl": "https://github.com/sponsors/RahmaniErfan"
+      "fundingUrl": "https://github.com/sponsors/RahmaniErfan",
+      "parentProperty": "Parent",
+      "childrenProperty": "children",
+      "forceStandardProperties": false
     }
   ],
   "// blacklist": "Array of repository URLs or author IDs blocked for security violations.",
