@@ -3,7 +3,7 @@
     "id": "abstract-library-demo",
     "name": "Abstract Library Demo",
     "description": "A demonstration library for testing the Abstract Folder library system.",
-    "repositoryUrl": "https://github.com/RahmaniErfan/abstract-library-demo",
+    "repositoryUrl": "https://github.com/RahmaniErfan/abstract-library-template",
     "author": "Erfan",
     "category": "Sample",
     "tags": ["demo", "test"]
