@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-21T11:43:55Z",
+  "libraries": [
+    {
+      "id": "books-collection",
+      "name": "Books Collection",
+      "author": "RahmaniErfan",
+      "description": "A curated collection of books across various fields, demonstrating advanced virtual hierarchies.",
+      "category": "Academic",
+      "repo": "RahmaniErfan/Books"
+    }
+  ],
+  "blacklist": []
+}
